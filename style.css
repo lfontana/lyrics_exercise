@@ -1,0 +1,18 @@
+.footer1{
+background-color: rgb(153, 153, 204);
+display: flex;
+padding-left: 100px;
+padding-right: 100px;
+}
+
+ul {
+	list-style-type: none;
+}
+li {
+	padding-right: 30px;
+}
+
+.footer2{
+	height: 50px;
+	background-color: rgb(102, 102, 153);
+}
