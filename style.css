@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, Arial;
+    font-size: 13.4px;
+    background-color: #CCD;
+    min-width: 320px;
+}
+
+.lyrics {
+	height: 450px;
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.lyrics p {
+	margin: 0;
+}
+
