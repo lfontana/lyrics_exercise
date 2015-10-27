@@ -1,0 +1,14 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.nav-top{
+  height:51px;
+  width: 100%;
+  background-color: rgb(131, 131, 193);
+}
+.nav-bottom{
+  height:124px;
+  width: 100%;
+  background-color: rgb(102, 102, 153);
+}
