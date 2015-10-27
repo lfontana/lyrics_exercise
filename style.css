@@ -21,7 +21,12 @@ li {
 body{
   padding: 0;
   margin: 0;
+  font-family: Verdana, Arial;
+  font-size: 13.4px;
+  background-color: #CCD;
+  min-width: 300px;
 }
+
 .letters{
   height:22px;
   width: 375px;
@@ -71,3 +76,32 @@ body{
   width: 100%;
   background-color: rgb(102, 102, 153);
 }
+
+.lyrics {
+	height: 450px;
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.lyrics p {
+	margin: 0;
+}
+
+.legal {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.writers {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
